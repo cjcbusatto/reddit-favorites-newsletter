@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@use-cases/*": [
+        "src/use-cases/*"
+      ],
+      "@libs/*": [
+        "src/libs/*"
+      ]
+    }
+  }
+}
